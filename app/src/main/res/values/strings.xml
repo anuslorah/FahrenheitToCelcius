@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Celcius</string>
+    <string name="fahrenheitDegreeValue">100</string>
+    <string name="celciusDegreeValue">0</string>
+</resources>
